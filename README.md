@@ -1,4 +1,6 @@
 # remove-html-da-string
+# remove tags da string
+# remove html da string usando javascript js
 ```
                     //remove todo html e todas as tags script e style
                     const removeTags = (html) => {
